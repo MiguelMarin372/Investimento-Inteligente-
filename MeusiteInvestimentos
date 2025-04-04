@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investidor Inteligente</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        h1 { color: #2c3e50; }
+        .benefits { text-align: left; margin-top: 20px; }
+        .cta { margin-top: 30px; }
+        .cta a { background: #e67e22; color: white; padding: 15px 25px; text-decoration: none; font-size: 18px; border-radius: 5px; }
+        .cta a:hover { background: #d35400; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Investidor Inteligente: Como Multiplicar Seu Dinheiro do Zero!</h1>
+        <p>Aprenda as melhores estratégias para investir com segurança e aumentar seu patrimônio, mesmo começando do zero.</p>
+        
+        <div class="benefits">
+            <h2>O que você vai aprender:</h2>
+            <ul>
+                <li>Como começar a investir sem risco</li>
+                <li>Estratégias de multiplicação de capital</li>
+                <li>Investimentos para curto, médio e longo prazo</li>
+                <li>Segredos dos investidores de sucesso</li>
+            </ul>
+        </div>
+        
+        <div class="cta">
+            <a href="https://kiwify.com.br/seu-produto" target="_blank">Acesse Agora</a>
+        </div>
+    </div>
+</body>
+</html>
+
+
+Aqui está o código do seu site sobre Investimento Inteligente! Ele é chamativo, objetivo e já contém um botão que pode levar à sua página de vendas na Kiwify.
+
+Agora você pode hospedar esse código em uma plataforma como GitHub Pages, Vercel ou Netlify. Se precisar de ajuda para colocar no ar, me avise!
+
